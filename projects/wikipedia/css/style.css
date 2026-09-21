@@ -1,0 +1,25 @@
+h1{
+    color:rgb(191, 52, 124)
+}
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 500;
+}
+.image-box{
+    padding: 8px;
+    border: 2px solid #3f4041;
+    margin: 20px;
+    background-color: #cbcdce;
+}
+body{
+    color: #000000
+    font-family: 'Georgia', 'Times New Roman', serif;
+
+
+}
+.see-also-container {
+padding: 20px;             
+border: 2px solid #333333;
+margin: 30px 0; 
+background-color: rgb(252, 221, 226);
+}           
