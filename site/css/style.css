@@ -1,0 +1,26 @@
+body{
+    background-color: #f9f4f0;
+    font-size: 25px;
+
+}
+h1{
+    font-size: 70px;
+    color: #22223B ;
+    font-family: 'Italiana', serif;
+
+
+}
+
+.bi-linkedin {
+    font-size: 60px;
+    color: #0a66c2; 
+
+}
+.bi-telephone {
+    font-size: 45px;
+    color: #198754; 
+}
+.bi-envelope {
+    font-size: 45px;
+    color: #dc3545; 
+}
