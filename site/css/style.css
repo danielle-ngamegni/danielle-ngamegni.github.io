@@ -5,10 +5,13 @@ body{
 }
 h1{
     font-size: 70px;
-    color: #22223B ;
+    color: #501d57 ;
     font-family: 'Italiana', serif;
 
 
+}
+h3{
+    color:#501d57
 }
 
 .bi-linkedin {
@@ -23,4 +26,10 @@ h1{
 .bi-envelope {
     font-size: 45px;
     color: #dc3545; 
+}
+.timeline-line {
+    border-right: 2px color:#501d57 ; 
+}
+.timeline-line {
+    border-right: 2px  color:#501d57 ;
 }
