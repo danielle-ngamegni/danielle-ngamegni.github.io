@@ -1,35 +1,36 @@
 body{
-    background-color: #f9f4f0;
-    font-size: 25px;
+    background-color: #faf4f0;
+    font-size: 18px;
 
 }
 h1{
-    font-size: 70px;
-    color: #501d57 ;
-    font-family: 'Italiana', serif;
+    font-size: 47px;
+    color: #6c2651;
+    font-family: Georgia, 'Times New Roman', serif;
 
 
 }
 h3{
-    color:#501d57
+    color:#5A4050
+        font-size; 24px;
 }
 
-.bi-linkedin {
-    font-size: 60px;
-    color: #0a66c2; 
 
+.timeline-line {
+    border-right: 2px solid #5A4050;
 }
-.bi-telephone {
-    font-size: 45px;
-    color: #198754; 
-}
+
+.bi-linkedin,
+.bi-telephone,
 .bi-envelope {
-    font-size: 45px;
-    color: #dc3545; 
+    font-size: 36px;
+    color: #3c2b36;
 }
-.timeline-line {
-    border-right: 2px color:#501d57 ; 
+p a {
+    color: #5A4050;
+    text-decoration: none;
 }
-.timeline-line {
-    border-right: 2px  color:#501d57 ;
+nav a {
+    color: #5A4050;
+    margin-left: 15px;
 }
