@@ -1,0 +1,42 @@
+.container {
+    width: 55%;
+}
+
+body {
+    color: #222222;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 400;
+}
+
+.box {
+    background-color: #f5f5f5;
+}
+
+.timeline {
+    background-color: #C5271D;
+    color: white;
+}
+
+.overline {
+    color: #C5271D;
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 15px;
+    font-weight: 450;
+}
+
+a {
+    color: #C5271D;
+}
+
+@media (max-width: 556px) {
+    h1 {
+        font-size: 2em;
+    }
+}
